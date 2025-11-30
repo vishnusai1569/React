@@ -9,5 +9,4 @@ const One = (props) => {
     </div>
   )
 }
-
 export default One
